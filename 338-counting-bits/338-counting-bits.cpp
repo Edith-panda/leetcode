@@ -1,7 +1,7 @@
 class Solution {
 public:
     int binary(int a){
-        int sol = 0;
+        int sol =0;
         while(a >0){
             int p = a%2;
             sol += p;
