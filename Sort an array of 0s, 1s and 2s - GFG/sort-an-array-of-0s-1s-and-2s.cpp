@@ -12,6 +12,7 @@ class Solution
     {
         // coode here 
         sort(a, a+n);
+        
     }
     
 };
